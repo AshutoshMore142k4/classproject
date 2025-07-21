@@ -91,4 +91,3 @@ https://example.com/contact
 
 This project is for educational purposes.
 
-**Feel free to further customize this README for your needs, and add sections for contributors, issues, or credits if you wish!**
